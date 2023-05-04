@@ -1,0 +1,8 @@
++N0003#res/sprite/other/takato.png#39#36#-L0030#E#
++N0002#res/sprite/marcos/marcos_hammer.png#23#37#*;res/sprite/marcos/marcos_hammer_animation.png;32;59;4;4;#-C0026#*;res/sprite/marcos/marcos_hammer_animation.png;32;59;4;4;#-B0027#*;res/sprite/marcos/marcos_hammer_animation.png;32;59;4;4;#-M0028#*;res/sprite/marcos/marcos_hammer_animation.png;32;59;4;4;#-J0029#E#
++N0001#res/sprite/battle/frog/frog_start_first.png#32#32#-L0039#&;res/sprite/frog/frog_walk_down.png;32;32;96;32;2;3;0;110;2;#-W0004#_F01#-W0005#&;res/sprite/frog/frog_spin.png;32;32;256;32;1;8;100;-100;5;#&;res/sprite/frog/frog_jump.png;32;32;32;32;1;1;0;-1000;500;#-L0006#E#
++N0006#res/sprite/other/connie.png#18#31#-Q0033#E#
++N0008#a#18#31#-J0034#&;a;32;32;32;32;1;1;0;-1000;500;#E#
++N0005#res/sprite/other/capybara.png#18#28#-N0032#E#
++N0004#res/sprite/other/bakami.png#39#42#-S0031#E#
++N0009#res/sprite/glock/glock_stand_up.png#19#31#-L0035#_G01#-F0036#&;a;32;32;32;32;1;1;0;-1000;500;#E#

@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\layers">
+      <UniqueIdentifier>{a5787b55-605a-44fa-8370-7ae05b9ff76f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\layers">
+      <UniqueIdentifier>{0da84de2-17be-4144-ba21-536d059d45bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores">
+      <UniqueIdentifier>{ea8ed1b8-0cbd-4448-b64d-149e24457503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores">
+      <UniqueIdentifier>{d72f9674-6a1c-47ec-9ac3-e65b9c20e91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\text">
+      <UniqueIdentifier>{59e15153-3f3b-4b00-9e79-57440531f915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\text">
+      <UniqueIdentifier>{681b9541-239a-4499-8771-3341f8ab1816}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\event">
+      <UniqueIdentifier>{d277086f-e97b-4682-b299-ba0b5743f14c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\event">
+      <UniqueIdentifier>{ced01095-988b-4871-b313-f130c393dd0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\beatmap">
+      <UniqueIdentifier>{6766e5dd-947d-4911-8a9b-19cb60626ace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\beatmap">
+      <UniqueIdentifier>{11d1aa99-effe-4d31-a632-483154d6cc53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\tile">
+      <UniqueIdentifier>{a34cdf8b-2825-4284-b8b5-ff4b991e7bd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\tile">
+      <UniqueIdentifier>{2604d0bf-ef6b-4f7b-b92c-9e7506310a2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\actores\menu">
+      <UniqueIdentifier>{0e015510-980d-44aa-807b-64c1a40403d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\actores\menu">
+      <UniqueIdentifier>{f6f11ba5-b85e-4c5c-b432-c0dd385cf8f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Layer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLayer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Space.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Pad.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Archivos de origen\actores\text</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Archivos de origen\actores\text</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBoxLoader.cpp">
+      <Filter>Archivos de origen\actores\text</Filter>
+    </ClCompile>
+    <ClCompile Include="Interactor.cpp">
+      <Filter>Archivos de origen\actores</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="EventLoader.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="MovementEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBoxEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="EndEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatmapLayer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLayer.cpp">
+      <Filter>Archivos de origen\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="CombatEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatCircle.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Healthbar.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatmapEventActivator.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatInteractor.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatmapEnder.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTile.cpp">
+      <Filter>Archivos de origen\actores\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Archivos de origen\actores\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="ZoneTile.cpp">
+      <Filter>Archivos de origen\actores\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Archivos de origen\actores\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="NpcTile.cpp">
+      <Filter>Archivos de origen\actores\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Rival.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Party.cpp">
+      <Filter>Archivos de origen\beatmap</Filter>
+    </ClCompile>
+    <ClCompile Include="ZoneEvent.cpp">
+      <Filter>Archivos de origen\actores\event</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLayer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Space.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pad.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Archivos de encabezado\actores\text</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Archivos de encabezado\actores\text</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBoxLoader.h">
+      <Filter>Archivos de encabezado\actores\text</Filter>
+    </ClInclude>
+    <ClInclude Include="Interactor.h">
+      <Filter>Archivos de encabezado\actores</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="EventLoader.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBoxEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="EndEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatmapLayer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuLayer.h">
+      <Filter>Archivos de encabezado\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="CombatEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatCircle.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Healthbar.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatmapEventActivator.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatInteractor.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatmapEnder.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Archivos de encabezado\actores\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="EventTile.h">
+      <Filter>Archivos de encabezado\actores\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoneTile.h">
+      <Filter>Archivos de encabezado\actores\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Archivos de encabezado\actores\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcTile.h">
+      <Filter>Archivos de encabezado\actores\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Rival.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Party.h">
+      <Filter>Archivos de encabezado\beatmap</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoneEvent.h">
+      <Filter>Archivos de encabezado\actores\event</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

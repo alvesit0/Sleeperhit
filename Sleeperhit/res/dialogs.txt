@@ -1,0 +1,413 @@
+-W0004
+¡Eh tú! ¿Qué crees que haces?;
+ ;
+ ;
+.W
+¡Esa fuente que acabas de destruir era mi casa!;
+ ;
+*croac*;
+.L
+ ...;
+ ;
+ ¿La qué?;
+.W
+¡No te creas que te vas a salir con la tuya!;
+ ;
+¡Preparate para el combate!;
+#
+-W0005
+¡Maldita cría!;
+¡Volveré!;
+*croac*;
+#
+-L0006
+¿A qué ha venido eso?;
+ ; 
+ ;
+.L
+Bueno, no importa, ¡tengo que encontrar alguna;
+forma de salir de aquí!;
+ ;
+#
+-Y0010
+Si lo he hecho bien;
+Soy impresionante;
+Aúpa;
+.M
+No lo eres;
+¿De que vas?;
+ ;
+#
+-G0011
+Para bailar la bamba;
+ ;
+ ;
+.Y
+ ;
+Se necesita;
+ ;
+.M
+ ;
+ ;
+Una poca de grasia;
+#
+-N0020
+Mamá: ¡Liliiiiii!;
+¡Se está haciendo tardeeeee!;
+ ;
+.N
+Ya va siendo hora de irse a la cama, ¿no?;
+Por favor, no tardes que mañana tienes clase.;
+Dulces sueños, hija.;
+#
+-N0021
+¡Es Mewo!;
+ ;
+ ;
+.J
+Su brazo está a punto de caerse...;
+ ;
+ ;
+#
+-N0022
+¡Es una Mintendo 74!;
+ ;
+ ;
+.H
+Ayer me pasé toda la noche jugando al Super;
+Pario 74.;
+ ;
+.K
+Mereció la pena, pero ahora tengo sueño...;
+ ;
+ ;
+#
+-N0023
+Son tus deberes.;
+ ;
+Aún no los has hecho.;
+.J
+ ...;
+ ;
+ ;
+.H
+Ya los haré en otro momento.;
+ ;
+ ;
+#
+-L0024
+Creo que debería irme a dormir ya.;
+ ;
+ ;
+.K
+Dulces sueños...;
+ ;
+ ;
+#
+-L0025
+No debería salir de mi habitación a estas horas.;
+ ;
+ ;
+#
+-C0026
+Santa madre... Ya no hacen maderos como antes...;
+ ;
+ ;
+#
+-B0027
+Hola chiquilla... ¿qué te trae por aquí?;
+ ;
+ ;
+.J
+Buenas señor... ¿le puedo hacer una pregunta?;
+ ;
+ ;
+.J
+¿Cómo se llama este sitio?;
+ ;
+ ;
+#
+-M0028
+Ahora mismo estás en Pueblo Rem.;
+Un pueblo bastante humilde, pero que hace poco;
+ha sido atacado por una lluvia de meteoritos.;
+.V
+Yo estoy haciendo mi labor como albañil, arreglan-;
+do edificios, pero parece ser que uno ya no es;
+capaz de conseguir maderos en condiciones.;
+.B
+¿Por qué lo dices?;
+ ;
+ ;
+.L
+Ehm...;
+ ;
+ ;
+#
+-J0029
+No estoy segura de como he llegado hasta aquí, y;
+me gustaría volver a casa.;
+ ;
+.M
+Hm... En ese caso te recomendaría ir a Ciudad;
+Poliso.;
+ ;
+.L
+¿Cómo?;
+ ;
+ ;
+.V
+¡Ciudad Poliso!;
+ ;
+ ;
+.B
+Es conocida por ser el lugar en el que los sueños;
+de todo el mundo se pueden hacer realidad.;
+ ;
+.B
+No tengo ni idea de como podría ayudarte;
+chiquilla, pero estoy seguro de que allí está la;
+respuesta a lo que buscas.;
+.K
+Ciudad Poliso...;
+ ;
+ ;
+.H
+De acuerdo, ¡muchas gracias! ¿señor...?;
+ ;
+ ;
+.M
+Marcos, puedes llamarme Marcos.;
+ ;
+Un placer.;
+#
+-L0030
+Disculpa, ¿podría ayudarme?;
+ ;
+ ;
+.T
+Lo siento peque, pero ahora mismo estoy;
+en mis pocos minutos de descanso.;
+ ;
+.T
+Si necesitas ayuda puedes intentar hablar con;
+el gato que está arreglando la casa o con;
+mi jefa en la cafetería.;
+.T
+De verdad que te ayudaría pero es que estoy;
+molida, llevamos moviendo cosas toda la mañana;
+por culpa de estos malditos meteoritos.;
+.J
+De acuerdo... muchas gracias...;
+ ;
+ ;
+#
+-S0031
+Hola jovencita... No me suena haberte visto por;
+aquí antes...;
+ ;
+.L
+Buenas, me acabo de despertar hace un momento y;
+estoy perdida, ¿podrías ayudarme?;
+ ;
+.S
+Ya veo... Que vergüenza, por lo que dices seguro;
+que tus padres te han dejado tirada aquí en el;
+pueblo o vete tu a saber...;
+.S
+ ...;
+ ;
+ ;
+.L
+ ...;
+ ;
+ ;
+.H
+No tiene nada que ver con eso.;
+Estoy bastante segura de que no me han dejado;
+tirada.;
+.S
+Bien, entonces me dejas más aliviada, una;
+paliza menos que dar...;
+ ;
+.S
+Oh, disculpa por no presentarme antes, me llamo;
+Bakami y estoy aquí por orden del gremio de;
+magos para investigar los meteoritos.;
+.H
+¡Hala! ¡Eso suena muy guay!;
+ ;
+ ;
+.J
+(qué dramático);
+ ;
+ ;
+.S
+Bueno, si necesitas cualquier otra cosa avísame;
+y si te enteras de algo no olvides decírmelo.;
+ ;
+.S
+¿Me ayudarías a cazar al desgraciado que ha;
+causado esto para hacer que pague?;
+ ;
+.K
+ ...;
+ ;
+ ;
+#
+-N0032
+*sonidos de capybara*;
+ ;
+ ;
+.H
+¡Es un perro cocotero!;
+ ;
+ ;
+#
+-Q0033
+Cuando puedas ve a la entrada del pueblo.;
+Él te estará esperando.;
+ ;
+#
+-J0034
+Huele mucho a tabaco...;
+ ;
+ ;
+.L
+Disculpa, ¿te importa si te hablo desde aquí?;
+Es que no me gusta el olor del tabaco.;
+ ;
+.Q
+¿Huh?;
+ ;
+ ;
+.Q
+Oh, claro, sin problema.;
+ ;
+ ;
+.J
+Necesito ayuda para salir del pueblo y encontrar;
+el camino a casa.;
+¿Podría ayudarme?;
+.Q
+Como podrá ver, no solo estoy lidiando con sacar;
+casi todo lo útil de mi local, sino que también;
+estoy cansada física y mentalmente...;
+.Q
+Me da que de esta no voy a salir bien parada;
+económicamente, pero bueno, usted no ha venido;
+a oír mis penas.;
+.Q
+Creo que si que podría ayudarle.;
+Alguien del pueblo me debe un favor y puedo;
+hacer que le acompañe hasta la ciudad.;
+.Q
+Vaya a la entrada del pueblo cuando esté lista.;
+Él estará esperándole.;
+ ;
+.Q
+Le aviso de que es un poco... solitario,;
+por lo que no espere mucha conversación;
+durante el trayecto.;
+.H
+¿En serio? ¡Muchísimas gracias!;
+¡Te abrazaría si no estuvieras fumando!;
+ ;
+.Q
+Aish, que joven más adorable.;
+No se preocupe, no es nada.;
+ ;
+.Q
+Si me disculpa, esta camarera debe terminarse;
+su cigarrillo.;
+ ;
+#
+-L0035
+Hola... una camarera que fumaba mucho me ha;
+dicho que podrías ayudarme a llegar a ciudad;
+Poliso, ¿es eso cierto?;
+.G
+Hola.;
+ ;
+ ;
+.G
+Te ayudaré, pero antes debo ponerte a prueba.;
+ ;
+ ;
+.D
+Se que has sido tu la que ha causado la lluvia;
+de meteoritos.;
+ ;
+.F
+No pienso dejar que te salgas con la tuya.;
+ ;
+ ;
+.J
+¿Cómo?;
+ ;
+ ;
+#
+-F0036
+Vaya, eres fuerte.;
+ ;
+ ;
+.D
+Está bien, te ayudaré a llegar a ciudad Poliso.;
+ ;
+ ;
+.H
+¡Genial! ¡Muchas gracias!;
+ ;
+ ;
+.H
+¡Mi nombre es Lili! ¡Encantada!;
+ ;
+ ;
+.G
+Soy Glock;
+ ;
+ ...;
+.L
+ ...;
+ ;
+ ;
+.G
+ ...;
+ ;
+ ;
+.G
+Entonces vamos.;
+ ;
+ ;
+.N
+¡Glock se ha unido a tu grupo!;
+ ;
+ ;
+.N
+Aquí concluye esta primera versión de Sleeperhit.;
+¡Muchas gracias por jugar!;
+ ;
+#
+-K0037
+Ahm... ¿qué...?;
+ ;
+ ;
+.J
+¿Dónde... estoy...?;
+ ;
+ ;
+#
+-J0038
+Tengo que salir de aquí.;
+ ;
+ ;
+.J
+¡Allá voy!;
+ ;
+ ;
+#
+-L0039
+¿Hm?;
+ ;
+ ;
+#
